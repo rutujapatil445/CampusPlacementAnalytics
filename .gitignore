@@ -1,0 +1,26 @@
+# Environment variables & database credentials
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Testing cache
+.pytest_cache/
+
+# Saved Machine Learning Binary Models
+models/*.joblib
+
+# Temporary development tests
+scratch/
